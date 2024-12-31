@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.Home {
+    background-color: #4598b4;
+    color: #333333;
+}
+
+.Stopwatch {
+    background-color: #4598b4;
+    color: #333333;
+}
+
+.Timer {
+    background-color: #4598b4;
+    color: #333333;
+}
+
+.JamDigital {
+    background-color: #4598b4;
+    color: #333333;
+}
+
+.Alarm {
+    background-color: #4598b4;
+    color: #333333;
+}
+
+.stApp {
+    padding: 20px;
+    border-radius: 8px;
+}
